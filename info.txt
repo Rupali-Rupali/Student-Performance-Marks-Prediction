@@ -1,0 +1,18 @@
+#### Life cycle of Machine learning Project
+
+- Understanding the Problem Statement
+- Data Collection
+- Data Checks to perform
+- Exploratory data analysis
+- Data Pre-Processing
+- Model Training
+- Choose best model
+
+Data Checks to perform
+
+- Check Missing values
+- Check Duplicates
+- Check data type
+- Check the number of unique values of each column
+- Check statistics of data set
+- Check various categories present in the different categorical column
